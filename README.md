@@ -20,11 +20,9 @@ I am passionate about cybersecurity and penetration testing. I enjoy learning ho
 
 ## Tools
 
-### NMAP
-
-### MetaSploit
-
-### Burpsuite
+ NMAP
+MetaSploit
+ Burpsuite
 
 ## Certifications
 
